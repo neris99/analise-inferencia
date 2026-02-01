@@ -1,5 +1,5 @@
-#Análise exploratória e inferencial utilizando Python, com foco na relação entre
-sintomas depressivos (PHQ-9), atividade física e qualidade da dieta.#
+Análise exploratória e inferencial utilizando Python, com foco na relação entre
+sintomas depressivos (PHQ-9), atividade física e qualidade da dieta.
 
 Projeto desenvolvido no Google Colab como atividade prática de Ciência de Dados.
 
@@ -29,4 +29,5 @@ Projeto desenvolvido no Google Colab como atividade prática de Ciência de Dado
 ## Autor
 Marcelo Aparecido Neris  
 GitHub: https://github.com/neris99
+
 
